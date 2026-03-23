@@ -33,8 +33,3 @@ Functional testing ensures that each feature behaves as expected and meets busin
 ### 📌 Outcome
 
 This project helped identify functional issues, validate application behavior, and ensure a smooth user experience across key features.
-
-
-  ```
-  🔗 Test Cases: [https://docs.google.com/spreadsheets/d/10XJYhq4CmmF-wnpv5mSO49IB4c2IdhwxndDtGaoZ4F0/edit?gid=0#gid=0]
-  ```
