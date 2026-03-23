@@ -1,4 +1,4 @@
-**Forkify Functional Testing (Manual QA Project)**
+***Forkify Functional Testing (Manual QA Project)***
 
 This project demonstrates **manual functional testing** of the Forkify recipe web application. The application allows users to search, view, bookmark, and upload recipes using an external API.
 
